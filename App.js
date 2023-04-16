@@ -9,7 +9,7 @@ import CodePush from 'react-native-code-push';
 const App = () => {
   return (
     <SafeAreaView style={{ flex: 1, alignItems: "center", justifyContent: "center" }}>
-      <Text style={{ color: "#faf" }}>HELLO ROYALBOSS</Text>
+      <Text style={{ color: "#fab" }}>ThiS</Text>
 
     </SafeAreaView>
   );
